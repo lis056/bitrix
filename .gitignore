@@ -1,0 +1,9 @@
+/bitrix
+/upload
+*.log
+*.sql
+*.xml
+/.idea
+web.config
+.htaccess
+*.txt
